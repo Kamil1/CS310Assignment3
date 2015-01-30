@@ -80,7 +80,7 @@ public class GitLab implements EntryPoint {
 		RootPanel.get("root").add(flexTable);
 	
 
-        CONFLIT2CHAINZ();
+        CONFLIT2CHCSTRICKLSAINZ();
 
 		flexTable.setText(0,0, "Name");
 		
