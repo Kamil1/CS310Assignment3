@@ -80,10 +80,13 @@ public class GitLab implements EntryPoint {
 		RootPanel.get("root").add(flexTable);
 	
 
-        CONFYELLICKLSAINZ(
+        CONFYELCHCSTRICKLSAINZ(
                 asdfasdfasdkfjalsdjhf
                 asdf
-                ad
+                asdffas
+                                asdf
+                as9d0f
+                asdf9asd0fasd
                 f
                 flexTable.set(0, 0, "NAME");
 
